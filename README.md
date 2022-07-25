@@ -1,15 +1,15 @@
 # Slack
 Bringing Twitter to Slack
 
-Pre_requisites:
+#Pre_requisites:
 Slack developer app
 Bot Event subscription: app_mention
 
-Environment:
+#Environment:
 Python 3.8
 AWS Lambda Function
 
-Packages:
+#Packages:
 requests_oauthlib
 requests
 
