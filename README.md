@@ -3,7 +3,8 @@ Bringing Twitter to Slack
 
 # Prerequisites:
 Slack developer app <br/>
-Bot Event subscription: app_mention
+Bot Event subscription: app_mention <br/>
+Twitter developer app with access tokens for oauth authentication flow
 
 # Environment:
 Python 3.8 </br>
